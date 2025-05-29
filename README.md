@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Varshithanukarapu/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Varshithanukarapu/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3194-find-words-containing-character](https://github.com/Varshithanukarapu/leetcode/tree/master/3194-find-words-containing-character) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Varshithanukarapu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Varshithanukarapu/leetcode/tree/master/0861-flipping-an-image) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Varshithanukarapu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Varshithanukarapu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Varshithanukarapu/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Varshithanukarapu/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Varshithanukarapu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Graph
 |  |
 | ------- |
@@ -103,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/Varshithanukarapu/leetcode/tree/master/3194-find-words-containing-character) |
+## Greedy
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Varshithanukarapu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Sorting
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Varshithanukarapu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
