@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Varshithanukarapu/leetcode/tree/master/0002-add-two-numbers) |
 | [0367-valid-perfect-square](https://github.com/Varshithanukarapu/leetcode/tree/master/0367-valid-perfect-square) |
 | [2050-count-good-numbers](https://github.com/Varshithanukarapu/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Varshithanukarapu/leetcode/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/Varshithanukarapu/leetcode/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Varshithanukarapu/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Varshithanukarapu/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
