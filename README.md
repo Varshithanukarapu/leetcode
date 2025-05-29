@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Varshithanukarapu/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Varshithanukarapu/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Varshithanukarapu/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3194-find-words-containing-character](https://github.com/Varshithanukarapu/leetcode/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Varshithanukarapu/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Varshithanukarapu/leetcode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
