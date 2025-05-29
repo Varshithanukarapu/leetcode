@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Varshithanukarapu/leetcode/tree/master/0002-add-two-numbers) |
 | [0367-valid-perfect-square](https://github.com/Varshithanukarapu/leetcode/tree/master/0367-valid-perfect-square) |
 | [2050-count-good-numbers](https://github.com/Varshithanukarapu/leetcode/tree/master/2050-count-good-numbers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Varshithanukarapu/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
 | ------- |
