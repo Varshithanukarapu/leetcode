@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Varshithanukarapu/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Varshithanukarapu/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Varshithanukarapu/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Varshithanukarapu/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2551-apply-operations-to-an-array](https://github.com/Varshithanukarapu/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Varshithanukarapu/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3194-find-words-containing-character](https://github.com/Varshithanukarapu/leetcode/tree/master/3194-find-words-containing-character) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Varshithanukarapu/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/Varshithanukarapu/leetcode/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Varshithanukarapu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Varshithanukarapu/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
