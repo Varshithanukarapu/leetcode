@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Varshithanukarapu/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Varshithanukarapu/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Varshithanukarapu/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Varshithanukarapu/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3194-find-words-containing-character](https://github.com/Varshithanukarapu/leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Varshithanukarapu/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Varshithanukarapu/leetcode/tree/master/0861-flipping-an-image) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Varshithanukarapu/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Varshithanukarapu/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Varshithanukarapu/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
 | ------- |
